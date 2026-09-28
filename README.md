@@ -1,46 +1,20 @@
-# Hi 👋, I'm mqjws
+<h1 align="center">Hi 👋, I'm Like_a_Mirage</h1>
+<h3 align="center">Computer Science Student | Learning Linux, Backend & Embedded Systems</h3>
 
-> Computer Science & Technology Student · Linux · Backend · Embedded
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mqjws&label=Profile%20views&color=0e75b6&style=flat" alt="mqjws" /> </p>
 
-🎓 Computer Science & Technology student at Ningxia University.
+- 📫 How to reach me **ivanomirage@gmail.com**
 
-💻 Interested in:
-- Linux & Embedded Systems
-- Backend Development
-- Computer Networks
-- System Programming
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61585450722380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61585450722380" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/like.a.mirage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/like.a.mirage/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@like_a_mirage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@like_a_mirage" height="30" width="40" /></a>
+</p>
 
-🌱 Currently learning:
-- C / C++
-- Python
-- Linux
-- Computer Networks
-- Operating Systems
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 🚀 Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mqjws&show_icons=true&locale=en" alt="mqjws" /></p>
 
-### CampusTree
-
-Anonymous campus tree-hole platform.
-
-`FastAPI` `PostgreSQL` `Vue 3` `Docker`
-
-### More projects
-
-Coming soon...
-
-## 🛠️ Tech Stack
-
-[这里放技术栈图标]
-
-## 📊 GitHub Stats
-
-[这里放 GitHub Stats]
-
-## 🔥 Contributions
-
-[这里放 GitHub Streak]
-
----
-
-⭐ Thanks for visiting my profile!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mqjws&" alt="mqjws" /></p>
