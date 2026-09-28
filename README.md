@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm mqjws
 
-<!--
-**mqjws/mqjws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Computer Science & Technology Student · Linux · Backend · Embedded
 
-Here are some ideas to get you started:
+🎓 Computer Science & Technology student at Ningxia University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- Linux & Embedded Systems
+- Backend Development
+- Computer Networks
+- System Programming
+
+🌱 Currently learning:
+- C / C++
+- Python
+- Linux
+- Computer Networks
+- Operating Systems
+
+## 🚀 Projects
+
+### CampusTree
+
+Anonymous campus tree-hole platform.
+
+`FastAPI` `PostgreSQL` `Vue 3` `Docker`
+
+### More projects
+
+Coming soon...
+
+## 🛠️ Tech Stack
+
+[这里放技术栈图标]
+
+## 📊 GitHub Stats
+
+[这里放 GitHub Stats]
+
+## 🔥 Contributions
+
+[这里放 GitHub Streak]
+
+---
+
+⭐ Thanks for visiting my profile!
