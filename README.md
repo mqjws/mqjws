@@ -19,4 +19,5 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mqjws)
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{mqjws})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
